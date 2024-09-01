@@ -2,7 +2,7 @@
 
 public class Animal
 {
-    string name;    // поле
+    public string name;    // поле
     public string OwnerName { get; }    // свойство
 
     public Animal(string name, string ownerName)    // конструктор
