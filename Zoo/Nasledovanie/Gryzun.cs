@@ -1,6 +1,6 @@
 ﻿namespace Zoo.Nasledovanie;
 
-public class Gryzun
+public abstract class Gryzun
 {
     private int _id;
     public string Name { get; init; }
